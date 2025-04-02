@@ -1,0 +1,14 @@
+D:\C# Projects\AcademyIT\Lab1_1\Lab1_1\bin\Debug\net8.0\Lab1_1.exe
+D:\C# Projects\AcademyIT\Lab1_1\Lab1_1\bin\Debug\net8.0\Lab1_1.deps.json
+D:\C# Projects\AcademyIT\Lab1_1\Lab1_1\bin\Debug\net8.0\Lab1_1.runtimeconfig.json
+D:\C# Projects\AcademyIT\Lab1_1\Lab1_1\bin\Debug\net8.0\Lab1_1.dll
+D:\C# Projects\AcademyIT\Lab1_1\Lab1_1\bin\Debug\net8.0\Lab1_1.pdb
+D:\C# Projects\AcademyIT\Lab1_1\Lab1_1\obj\Debug\net8.0\Lab1_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projects\AcademyIT\Lab1_1\Lab1_1\obj\Debug\net8.0\Lab1_1.AssemblyInfoInputs.cache
+D:\C# Projects\AcademyIT\Lab1_1\Lab1_1\obj\Debug\net8.0\Lab1_1.AssemblyInfo.cs
+D:\C# Projects\AcademyIT\Lab1_1\Lab1_1\obj\Debug\net8.0\Lab1_1.csproj.CoreCompileInputs.cache
+D:\C# Projects\AcademyIT\Lab1_1\Lab1_1\obj\Debug\net8.0\Lab1_1.dll
+D:\C# Projects\AcademyIT\Lab1_1\Lab1_1\obj\Debug\net8.0\refint\Lab1_1.dll
+D:\C# Projects\AcademyIT\Lab1_1\Lab1_1\obj\Debug\net8.0\Lab1_1.pdb
+D:\C# Projects\AcademyIT\Lab1_1\Lab1_1\obj\Debug\net8.0\Lab1_1.genruntimeconfig.cache
+D:\C# Projects\AcademyIT\Lab1_1\Lab1_1\obj\Debug\net8.0\ref\Lab1_1.dll
